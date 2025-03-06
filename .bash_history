@@ -17,3 +17,5 @@ python3 batch_processing.py
 gsutil -m cp -r gs://cloud-samples-data/documentai/codelabs/ocr/multi-document/* gs://$GOOGLE_CLOUD_PROJECT/multi-document/
 vim batch_processing_directory.py
 python3 batch_processing_directory.py
+git config user.name "niraaaaliiii"
+git config user.email "nirali.h.rathod@gmail.com"
